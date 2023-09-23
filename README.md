@@ -1,2 +1,2 @@
 # Todo-app
-Todo app Your Personal Task Manager
+Flutter Todo app Your Personal Task Manager
